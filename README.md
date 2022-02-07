@@ -49,4 +49,8 @@ https://github.com/ren15/devcloud_cookbook
 https://github.com/ren15/runner_grid  
 https://github.com/ren15/ci_29193608  
 
+### Remote GUI dev env
+
+https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-firefox-g3  
+https://github.com/ml-tooling/ml-workspace
 
