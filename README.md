@@ -1,5 +1,7 @@
 # arsenal_gate
 
+Test if gitlab mirror can keep track of the upstream updates
+
 For a high-performance live data science stack, we need the following
 
 ### shared_memory ipc
