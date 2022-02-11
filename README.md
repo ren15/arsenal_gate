@@ -56,3 +56,17 @@ https://github.com/ren15/ci_29193608
 https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-firefox-g3  
 https://github.com/ml-tooling/ml-workspace
 
+
+## High performance serialization
+
+Cap'n Proto  
+FlatBuffers  
+Abomonation  
+Protobuf  
+
+
+## C/C++ live reload
+
+https://github.com/fungos/cr  
+https://github.com/ddovod/jet-live    
+Simple Binary Encoding  
